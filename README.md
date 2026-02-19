@@ -1,5 +1,7 @@
 # MSRM
+### An algorithm to make visible subtle (not only) topographic changes at different scales
 
+MSRM can be used to make visible near-invisible changes in Digital Surface Models or Digital Terrain Models. MSRM is different from other multi-scale microtopographic visualisation algortihms beccasue it produces a single-band raster, which makes it ideal for combination with other rasters (as a background for visualisation or as part or a multiband raster used in methods such as ML/ML-based classification). It can also be applied to different types of rasters, for example, when applied to each band of RGB images, it makes evident inperceptible changes in colour, imporving local contrast.
 
 Multi-Scale Relief Model script originally published in Earth Surf. Process. Landf. (2018), 43(6): 1361-1369
 Updated with:
