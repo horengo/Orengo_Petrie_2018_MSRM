@@ -14,11 +14,13 @@ MSRM can be used to make visible near-invisible changes in Digital Surface Model
 
 *Comparison between multitemporal cloud-free Harmonised Sentinel 2 image (2&sigma; stretched) - top - and MSRM of the same image (2&sigma; stretched) - down*<br>
 
-The Multi-Scale Relief Model script was originally published in Earth Surf. Process. Landf. (2018), 43(6): 1361-1369. https://onlinelibrary.wiley.com/doi/10.1002/esp.4317
+
+The Multi-Scale Relief Model script was originally published in Earth Surf. Process. Landf. (2018), 43(6): 1361-1369. https://onlinelibrary.wiley.com/doi/10.1002/esp.4317<br>
 In this later implementation it has been updated with:
  - Parallel excution for each generated surface
  - Admits both projected and geographic (degrees) CRS
  - Visualisation of the resulting MSRM
+
 
 ## Setting up the environment
 
