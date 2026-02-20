@@ -3,9 +3,9 @@
 
 MSRM can be used to make visible near-invisible changes in Digital Surface Models or Digital Terrain Models. MSRM is different from other multi-scale microtopographic visualisation algortihms beccasue it produces a single-band raster, which makes it ideal for combination with other rasters (as a background for visualisation or as part or a multiband raster used in methods such as ML/ML-based classification). It can also be applied to different types of rasters, for example, when applied to each band of RGB images, it makes evident inperceptible changes in colour, imporving local contrast.
 
-<img width="903" height="448" alt="Sent2" src="https://github.com/user-attachments/assets/5b428500-66c9-439c-9dfa-cc3bb66f09aa" />
-<img width="903" height="448" alt="MSRM_RGB" src="https://github.com/user-attachments/assets/2d652c41-c764-4e7f-afdc-2fee5a7fb721" />
-
+<img width="903" height="426" alt="Sent2" src="https://github.com/user-attachments/assets/cc074f8b-7854-443e-b2a4-e37e89fd2e5a" />
+<img width="903" height="426" alt="MSRM_RGB" src="https://github.com/user-attachments/assets/38867c97-3fad-497d-95cb-bef020f32be5" />
+*Comparison between multitemporal cloud-free Harmonised Sentinel 2 image (2&sigma; stretched) - top - and MSRM of the same image (2&sigma; stretched) - down*
 
 The Multi-Scale Relief Model script was originally published in Earth Surf. Process. Landf. (2018), 43(6): 1361-1369.
 In this implementation it has been pdated with:
