@@ -1,7 +1,11 @@
 # MSRM
 ### An algorithm to make visible subtle (not only) topographic changes at different scales
 
-MSRM can be used to make visible near-invisible changes in Digital Surface Models or Digital Terrain Models. MSRM is different from other multi-scale microtopographic visualisation algortihms beccasue it produces a single-band raster, which makes it ideal for combination with other rasters (as a background for visualisation or as part or a multiband raster used in methods such as ML/ML-based classification). It can also be applied to different types of rasters, for example, when applied to each band of RGB images, it makes evident inperceptible changes in colour, imporving local contrast.
+MSRM can be used to make visible near-invisible changes in Digital Surface Models or Digital Terrain Models. MSRM is different from other multi-scale microtopographic visualisation algortihms beccasue it produces a single-band raster, which makes it ideal for combination with other rasters (as a background for visualisation or as part or a multiband raster used in methods such as ML/ML-based classification). It can also be applied to different types of rasters, for example, when applied to each band of RGB images, it makes evident inperceptible changes in colour, improving local contrast.
+
+<img width="2128" height="1387" alt="image" src="https://github.com/user-attachments/assets/fc2dae78-7638-4a2a-8367-8bfaa1e6cfd7" />
+
+*Comparison between MSRM (G) and other micro-topogray visualisation tools*
 
 <img width="500" height="200" alt="Sent2" src="https://github.com/user-attachments/assets/cc074f8b-7854-443e-b2a4-e37e89fd2e5a" />
 <img width="500" height="200" alt="MSRM_RGB" src="https://github.com/user-attachments/assets/38867c97-3fad-497d-95cb-bef020f32be5" />
